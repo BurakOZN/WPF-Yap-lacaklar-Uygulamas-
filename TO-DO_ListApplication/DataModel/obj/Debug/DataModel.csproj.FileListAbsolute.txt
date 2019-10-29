@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\TO-DO_ListApplication\DataModel\bin\Debug\DataModel.dll
+C:\Users\burak\source\repos\TO-DO_ListApplication\DataModel\bin\Debug\DataModel.pdb
+C:\Users\burak\source\repos\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.dll
+C:\Users\burak\source\repos\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.pdb
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\bin\Debug\DataModel.dll
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\bin\Debug\DataModel.pdb
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.dll
+C:\Users\OZEN\Desktop\TO-DO_ListApplication\DataModel\obj\Debug\DataModel.pdb
